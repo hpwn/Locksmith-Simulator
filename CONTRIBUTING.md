@@ -32,7 +32,7 @@ We're excited to have you contribute to Locksmith Simulator! This document outli
 
 ### Contribution Spreadsheet
 
-- First [Visit our Trello Board for Development Tasks and Progress](<Your_Trello_Board_Link>)- Use the provided public spreadsheet to log your contributions.
+- First [Visit our Trello Board](<Your_Trello_Board_Link>)- for Development Tasks and Progress. Use the provided public spreadsheet to log your contributions.
 - For each contribution, record:
   - The date and duration of your contribution.
   - The specific commit(s) your contribution relates to.
