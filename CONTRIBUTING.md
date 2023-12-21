@@ -38,7 +38,7 @@ We're excited to have you contribute to Locksmith Simulator! This document outli
   - The specific commit(s) your contribution relates to.
   - A link to the relevant Twitch VOD.
   - The specific minute range in the VOD that shows your contribution.
-- For information on contribution tracking and compensation, please refer to the [Compensation Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1CK9yurmRs39DacZI-M3QNruKTv1JHryGBdpihkHQHDE/edit?usp=sharing).
+- Log using the [Compensation Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1CK9yurmRs39DacZI-M3QNruKTv1JHryGBdpihkHQHDE/edit?usp=sharing).
 
 ### Best Practices for Streaming
 
