@@ -2,6 +2,8 @@
 
 Locksmith Simulator is an innovative game that offers a range of locksmith tutorials, from basic lessons to advanced simulations, including physical and software pentesting challenges and escape room puzzles. The project will be VR compatible, aiming to provide a highly immersive experience.
 
+- **Game Design Document**: [View the Game Design Document](<Your_Game_Design_Doc_Link>)
+
 ## Getting Started
 
 Instructions on how to get a copy of the project up and running on your local machine for development and testing purposes will go here.
