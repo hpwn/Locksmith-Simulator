@@ -27,7 +27,7 @@
 **Cool features or unique elements included in the game:**
 
 - Game modes (Employee and Business Owner).
-- Lockpicking in a way more involved and realistic than any game has done so far.
+- Lockpicking in a more involved and realistic way than any game has done so far.
 
 ## 🎮 Interface
 
