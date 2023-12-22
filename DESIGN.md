@@ -1,4 +1,3 @@
-
 # Locksmith Simulator 🗝️
 
 “Locksmith: someone who does precision guesswork based on unreliable data provided by those of questionable knowledge.”
@@ -70,3 +69,7 @@
 ---
 
 **🚀 Launch Day:** 01/23/24
+
+---
+
+_© 2017 Game Dev Underground. Free to use/modify/distribute under CC 4.0._
