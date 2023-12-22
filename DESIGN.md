@@ -5,13 +5,13 @@
 
 ## Game Identity / Mantra
 
-*List your single sentence description of the game that you will use to guide design decisions.*
+**Single-sentence description of the game that guides design decisions.**
 
 **Esoteric Simulation of the Locksmith trade.**
 
 ## Design Pillars
 
-*List up to 3 words/phrases that convey the feeling or emotion you want the player to experience.*
+**Words/phrases that convey the feeling or emotion the player should experience.**
 
 - Pressured to Improve.
 - Accomplished feeling when tasks successful.
@@ -19,27 +19,27 @@
 
 ## Genre/Story/Mechanics Summary
 
-*List what the game is from a gameplay and/or story perspective.*
+**Description of the game from a gameplay and/or story perspective.**
 
 The game uses realistic situations to simulate a novice locksmith becoming a professional and starting his own business.
 
 ## Features
 
-*List the cool features or unique elements that you want to include in your game.*
+**Cool features or unique elements included in the game.**
 
 - Game modes (Employee and Business Owner).
 - Lockpicking in a way more involved and realistic than any game has done so far.
 
 ## Interface
 
-*List the player input method, the controls, and how the player interacts with your game.*
+**Player input method, controls, and interaction with the game.**
 
 - WASD movement, Interact with certain objects.
 - Rotate “in the moment” floating objects like Middle Earth: Shadow of Mordor.
 
 ## Art Style
 
-*Include references to lots of images and games that have a similar aesthetic to what you're trying to achieve.*
+**References to images and games with a similar aesthetic to the target style.**
 
 - Realistic scene and objects.
 - Phasmophobia House/Truck Scene.
@@ -49,7 +49,7 @@ The game uses realistic situations to simulate a novice locksmith becoming a pro
 
 ## Music/Sound
 
-*Include links to music and sound design similar to what you're trying to achieve. You can also list the emotional responses that the sound should invoke in the player.*
+**Links to music and sound design, and emotional responses they should invoke.**
 
 - Basic Soundtrack to listen music throughout work. Unlock Songs.
 - Happy Sim music through menus/tutorials.
@@ -58,7 +58,7 @@ The game uses realistic situations to simulate a novice locksmith becoming a pro
 
 ## Development Roadmap / Launch Criteria
 
-*Platform: Steam/Google Play/iOS/Web. Audience: Age/gender/interests.*
+**Target platform, audience, and key development milestones.**
 
 - **Platform:** Steam/Web
 - **Audience:** All Audiences. PG. Simulation Niche players.
